@@ -1,2 +1,2 @@
 # Document
-please download and open with WORD
+please download document.rtf and open with Word
